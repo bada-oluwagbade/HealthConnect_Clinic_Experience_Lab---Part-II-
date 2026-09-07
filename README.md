@@ -1,6 +1,5 @@
 # HealthConnect Clinic Appointment Analytics
 
-![Project Status](https://img.shields.io/badge/Status-Week%205%20Complete-success)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Project](https://img.shields.io/badge/Project-Healthcare%20Analytics-lightgrey)
@@ -418,19 +417,6 @@ The dashboard includes:
 - Key Insights
 - Priority Segments
 
-### Dashboard Preview
-
-![HealthConnect Appointment Attendance Dashboard](images/healthconnect_dashboard_preview.png)
-
-> Replace the image path above with the actual screenshot filename used in this repository.
-
-### Dashboard Files
-
-- [Power BI Dashboard](dashboard/HealthConnect_Week5_Dashboard.pbix)
-- [Dashboard PDF](dashboard/HealthConnect_Week5_Dashboard.pdf)
-
----
-
 ## Power BI Measures
 
 Examples of measures used in the dashboard include:
@@ -654,7 +640,8 @@ healthconnect-appointment-analytics/
 │
 ├── data/
 │   ├── raw/
-│   │   └── README.md
+│       └── HealthConnect_Appointment_Data
+|
 │   └── processed/
 │       └── HealthConnect_Appointment_Data_Cleaned.csv
 │
@@ -678,57 +665,6 @@ healthconnect-appointment-analytics/
 ```
 
 > The original internship-provided dataset should only be included publicly if redistribution is permitted. Otherwise, keep it out of the public repository and explain this in `data/raw/README.md`.
-
----
-
-## How to Explore the Project
-
-### View the Analysis
-
-Open:
-
-```text
-notebooks/02_HealthConnect_Week5_EDA.ipynb
-```
-
-The notebook contains:
-
-- data preparation;
-- missing-value analysis;
-- KPI calculations;
-- exploratory visualisations;
-- interpretations;
-- key findings;
-- recommendations;
-- limitations.
-
-### View the Dashboard
-
-Open:
-
-```text
-dashboard/HealthConnect_Week5_Dashboard.pdf
-```
-
-for a static version.
-
-If Power BI Desktop is available, open:
-
-```text
-dashboard/HealthConnect_Week5_Dashboard.pbix
-```
-
-for the interactive dashboard.
-
-### Read the Business Report
-
-Open:
-
-```text
-reports/HealthConnect_Week5_Business_Report.pdf
-```
-
-for the management-focused interpretation of the analysis.
 
 ---
 
