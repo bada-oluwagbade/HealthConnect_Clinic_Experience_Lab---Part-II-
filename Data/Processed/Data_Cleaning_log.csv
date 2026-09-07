@@ -1,0 +1,6 @@
+Issue,Finding,Action
+Duplicate appointment IDs,None identified,No removal
+Blank reminder channel,Corresponds to no reminder,Relabelled for analysis
+Distance missing,Limited records,Retained; exclude where required
+Waiting time missing,Limited records,Retained; exclude where required
+Dates,Converted to datetime,Used for time calculations
