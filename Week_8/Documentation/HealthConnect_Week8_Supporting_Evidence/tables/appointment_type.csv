@@ -1,0 +1,5 @@
+appointment_type,appointments,no_shows,rate
+Diagnostic Test,567,295,0.5202821869488536
+Follow-up,1344,728,0.5416666666666666
+General Consultation,1980,973,0.4914141414141414
+Specialist Consultation,846,427,0.5047281323877069
