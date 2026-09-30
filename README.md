@@ -8,7 +8,7 @@
 
 How can a clinic decide where to focus its support when more than half of eligible appointments are missed?
 
-That question guided my work on HealthConnect. Over four weeks, I reviewed appointment data, developed KPIs and a Power BI dashboard, explored attendance patterns, collaborated with Data Science, and checked the evidence behind my recommendations.
+That question guided my work on HealthConnect. Over five weeks, I reviewed appointment data, developed KPIs and a Power BI dashboard, explored attendance patterns, collaborated with Data Science, and checked the evidence behind my recommendations.
 
 The final analysis identified booking lead time and previous attendance history as useful priorities for testing supportive outreach. It also reinforced an important lesson: a high percentage needs context, including the size of the group, its share of the overall problem, and the limits of the evidence.
 
